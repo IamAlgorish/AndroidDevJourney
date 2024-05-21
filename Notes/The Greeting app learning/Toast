@@ -1,0 +1,22 @@
+What are Toasts?
+
+Brief pop-up messages in Android apps.
+Provide temporary feedback to users.
+Syntax for Creating a Toast:
+
+Toast.makeText(context, "Your Message", Toast.LENGTH_SHORT).show();
+Replace "Your Message" with the actual message.
+Use Toast.LENGTH_SHORT or Toast.LENGTH_LONG for duration.
+Customization Options:
+
+Change message, duration, and position on the screen.
+Best Practices:
+
+Keep messages concise and clear.
+Avoid overwhelming users with excessive Toasts.
+Ensure visibility and legibility, especially for accessibility.
+Next Steps:
+
+Practice creating and customizing Toasts.
+Document learnings on GitHub.
+Integrate Toasts into app for better user interaction.
